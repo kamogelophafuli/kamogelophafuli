@@ -58,7 +58,7 @@ I’m committed to lifelong learning — improving every day through hands-on pr
   <a href="https://www.linkedin.com/in/kamogelo-lebogang-phafuli-b216125a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kamogelophafuli@gmail.com">
+  <a href=kamogelophafuli@gmail.com">
     <img src="https://img.shields.io/badge/Email-007acc?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
